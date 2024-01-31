@@ -10,6 +10,6 @@
 ### rainCatcherTeusday
 OOP graphical game using sound and images for a full user experience
 
-![Gameplay]()
+![Gameplay](https://github.com/sguilkey/programmingportfolio/blob/main/images/Screenshot%202024-01-31%20at%209.46.47%20AM.png?raw=true)
 
 [Source Code]()
