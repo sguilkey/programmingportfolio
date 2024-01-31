@@ -1,6 +1,7 @@
 # Solomon's Programming Portfolio 2024
 
 ## Tech Certifications
+* Computer Programming 1 USOE State Certification
 
 ## Group Project
 
